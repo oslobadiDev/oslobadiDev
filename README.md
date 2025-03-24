@@ -1,4 +1,4 @@
-<h1>Hi, I'm One Seth Lobadi! <br/><a href="https://github.com/oslobadiDev/oslobadiDev">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>.
+<h1>Hi, I'm One Seth Lobadi! <br/><a href="https://github.com/oslobadiDev/oslobadiDev">Front-End Developer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">SOC Analyst</a>.
 
   
 <h3></h3> I'm passionate about Programing and Cybersecurity.</h3>
@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences: [https://drive.google.com/file/d/1sMMv5Db1AcsijQnBKlZGqje_YLDNrLeU/view?usp=sharing](https://drive.google.com/file/d/1sMMv5Db1AcsijQnBKlZGqje_YLDNrLeU/view?usp=sharing)
 
-- ⚡ Fun fact **I love Music.**
+- ⚡ Fun fact **Music is my second language.**
 
 - <h2> Connect with me on LinkedIn:</h2>
 <img align="left" alt="OneLobadi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/onesethlobadi/
