@@ -1,4 +1,4 @@
-<h1>Hi, I'm One Seth Lobadi! <br/><a href="https://github.com/oslobadiDev/oslobadiDev">Front-End Developer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">SOC Analyst</a>.
+<h1>Hi, I'm One Seth Lobadi! <br/><a href="https://github.com/oslobadiDev/oslobadiDev">Front-End Developer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Junior SOC Analyst</a>.
 
   
 <h3></h3> I'm passionate about Programing and Cybersecurity.</h3>
