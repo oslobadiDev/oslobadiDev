@@ -19,7 +19,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Automated File Organizer</b>
-  - [Project link Loading](https://github.com/oslobadiDev/automated-file-organizer)
+  - [Project link](https://github.com/oslobadiDev/automated-file-organizer)
 - <b>Task Management Application</b>
   - [Project link Loading](Link)
 - <b>PowerShell</b>
