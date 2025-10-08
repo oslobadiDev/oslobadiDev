@@ -18,8 +18,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Project link Loading](Link) 
+- <b>Automated File Organizer</b>
+  - [Project link Loading](https://github.com/oslobadiDev/automated-file-organizer)
 - <b>Task Management Application</b>
   - [Project link Loading](Link)
 - <b>PowerShell</b>
@@ -28,8 +28,9 @@
    - [Project link Loading](Link)
 - <b>HTML, CSS, Javascript</b>
   - [Project link Loading](Link)
-- <b>Automated File Organizer</b>
-  - [Project link Loading](Link)
+  - - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Project link Loading](Link) 
+
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
