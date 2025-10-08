@@ -8,7 +8,6 @@
 
 - 📫 How to reach me: **oslobadi@gmail.com**
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1sMMv5Db1AcsijQnBKlZGqje_YLDNrLeU/view?usp=sharing](https://drive.google.com/file/d/1sMMv5Db1AcsijQnBKlZGqje_YLDNrLeU/view?usp=sharing)
 
 - ⚡ Fun fact **Music is my second language.**
 
@@ -19,7 +18,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Automated File Organizer</b>
-  - [Project link](https://github.com/oslobadiDev/automated-file-organizer)
+  - [Click to view Project](https://github.com/oslobadiDev/automated-file-organizer)
 - <b>Task Management Application</b>
   - [Project link Loading](Link)
 - <b>PowerShell</b>
