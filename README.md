@@ -20,7 +20,7 @@
 - <b>Automated File Organizer</b>
   - [Click to view Project](https://github.com/oslobadiDev/automated-file-organizer)
 - <b>Task Management Application</b>
-  - [Project link Loading](Link)
+  - [Click to view Project](https://github.com/oslobadiDev/task-manager-app)
 - <b>PowerShell</b>
    - [Project link  Loading](Link)
 - <b>Python Image Editor</b>
