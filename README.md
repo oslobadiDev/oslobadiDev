@@ -1,6 +1,5 @@
 <h1>Hi, I'm One Seth Lobadi! <br/><a href="https://github.com/oslobadiDev/oslobadiDev">Developer</a>
   
-<h3></h3> I'm passionate about Programing and Cybersecurity.</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oslobadidev" alt="oslobadidev" /></a> </p>
@@ -8,7 +7,7 @@
 - 📫 How to reach me: **oslobadi@gmail.com**
 
 
-- ⚡ Fun fact **Music is my second language.**
+- ⚡**Music is my second language.**
 
 - <h2> Connect with me on LinkedIn:</h2>
 <img align="left" alt="OneLobadi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/onesethlobadi/
